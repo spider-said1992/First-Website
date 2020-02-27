@@ -1,0 +1,98 @@
+header {
+    padding: 30px;
+}
+
+#title {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin: 10px 0 20px 0;
+}
+
+h4 {
+    text-align: center;
+}
+
+#president {
+    text-align: center;
+}
+
+#image {
+    align-items: center;
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+p {
+    text-align: center;
+    margin: 0;
+    margin-bottom: 0;
+    padding: 16px;
+    padding-bottom: 24px;
+}
+
+li {
+    text-align: justify;
+    margin-bottom: 15px;
+}
+
+ul {
+    padding: 10px 20px;
+    margin-bottom: 10;
+}
+
+body {
+    background-color: navajowhite;
+    color: midnightblue;
+    font-family: cursive;
+    text-align: center;
+    min-width: 300px;
+}
+
+main {
+    background-color: navajowhite;
+    border-radius: 10px;
+    margin: 0;
+
+}
+
+figure {
+    background-color: burlywood;
+    margin: 0 24px;
+    padding: 24px;
+    padding-bottom: 16px;
+}
+
+#info {
+    font-size: .19rem;
+    padding-top: 10px;
+}
+
+figcaption {
+    padding-top: 10px;
+}
+
+blockquote {
+    background-color: burlywood;
+    font-family: monospace;
+    margin: 0 20px;
+    padding: 20px
+}
+
+cite {
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+
+q {
+    margin-bottom: 10px;
+}
